@@ -6,5 +6,3 @@
 # karam Dosa 
   karam added
 # Egg Dosa
-  Dosa batter
-  Oil
