@@ -8,3 +8,6 @@
 # Egg Dosa
   Dosa batter
   Oil
+# Ghee Dosa
+ * Batter
+ * karam is added
