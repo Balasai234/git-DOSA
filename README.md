@@ -9,3 +9,7 @@
   Dosa batter
   Oil
 # masala dosa
+  * Batter
+  * Oil
+  * Masala
+  * Chicken Masala
